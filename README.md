@@ -1,5 +1,8 @@
+![logo decentralizacja.pl](http://logo.decentralizacja.pl/1/default.png)
+
 # www
 Landing page: www.decentralizacja.pl
+
 
 
 
