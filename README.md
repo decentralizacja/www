@@ -3,7 +3,7 @@
 # Landing page: www.decentralizacja.pl
 + [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
 + [Dokumentacja](https://docs.decentralizacja.pl/)
-+ https://logo.decentralizacja.pl/
++ [Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
 
 
 [pytanie]
