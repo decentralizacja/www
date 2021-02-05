@@ -1,7 +1,7 @@
 ![logo decentralizacja.pl](http://logo.decentralizacja.pl/1/cover.png)
 
 # Landing page: www.decentralizacja.pl
-+ [www | Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
++ [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
 + [Dokumentacja](https://docs.decentralizacja.pl/)
 + https://logo.decentralizacja.pl/
 
