@@ -1,7 +1,10 @@
 ![logo decentralizacja.pl](http://logo.decentralizacja.pl/1/cover.png)
 
-# www
-Landing page: www.decentralizacja.pl
+# Landing page: www.decentralizacja.pl
++ [www | Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
++ [Dokumentacja](https://docs.decentralizacja.pl/)
++ https://logo.decentralizacja.pl/
+
 
 [pytanie]
 Kto z Państwa ma doświadczenie w tokenizacji czasu pracy?
