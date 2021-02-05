@@ -21,11 +21,8 @@ Taka asynchroniczna rzeczywistość pozwoli każdemu wybrać lepsze rozwiązanie
 Ta technologia może pomóc nie tylko zaplanować, ale też kontrolować każdy etap, pozwalając wcześniej zaplanować zakup ubezpieczeń/polis oraz zabezpieczenie wykonania usług podwójnie lub potrójnie, tworząc plany A,B, C ...
 Taka asynchroniczna rzeczywistość pozwoli każdemu wybrać lepsze rozwiązanie ale też rodzi nowe problemy...
 
-## Jak to zrobić, aby było to jeszcze w tym roku dostępne dla Polaków?
 
-#tokenized #time #work #earnings
-
-## Branża edukacji
+## Na poczatek branża edukacji
 
 W kontekście wykorzystania blockchain interesują mnie narzędzia do edukacji domowej. 
 Wykorzystanie nowoczesnych technologii do komunikacji i planowania, oraz realizacji i kontroli projektów będzie bardzo pomocne w rozproszonym środowisku gdzie edukacja domowa od strony organizacyjnej jest bardzo trudna i droga, a tam gdzie wchodzi technologia wiele spraw można ułatwić i sprawić by były tańsze i przez to dostępne dla większego grona odbiorców.
@@ -38,3 +35,8 @@ Do dyspozycji będą takie jak:
 + edukatorzy.pl
 + korepetytorzy.pl
 + polyglot.pl
+
+
+## Pytanie otwarte: Jak udostępnić te rozwiązania jeszcze w tym roku (2021) dla Polaków?
+
+#tokenized #time #work #earnings
