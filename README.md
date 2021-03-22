@@ -5,6 +5,9 @@
 + [Dokumentacja](https://docs.decentralizacja.pl/)
 + [Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
 
+## blockchain
+
+[Libonomy Blockchain](https://libonomy.com/#)
 
 ## Kto z Państwa ma doświadczenie w tokenizacji czasu pracy?
 
