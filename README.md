@@ -43,3 +43,7 @@ Do dyspozycji będą takie jak:
 ## Pytanie otwarte: Jak udostępnić te rozwiązania jeszcze w tym roku (2021) dla Polaków?
 
 #tokenized #time #work #earnings
+
+---
++ [edit](https://github.com/decentralizacja/www/edit/main/README.md)
++ https://github.com/decentralizacja/www.git
