@@ -46,8 +46,10 @@ Do dyspozycji będą takie jak:
 
 ---
 + [edit](https://github.com/decentralizacja/www/edit/main/README.md)
-  
-      https://github.com/decentralizacja/www.git
+
+```
+https://github.com/decentralizacja/www.git
+```
       
 
 
