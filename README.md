@@ -1,7 +1,7 @@
 ![logo decentralizacja.pl](http://logo.decentralizacja.pl/1/cover.png)
 
-# Landing page: www.decentralizacja.pl
-+ [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
+# [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
+
 + [Dokumentacja](https://docs.decentralizacja.pl/)
 + [Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
 
@@ -48,3 +48,6 @@ Do dyspozycji będą takie jak:
 + [edit](https://github.com/decentralizacja/www/edit/main/README.md)
   
       https://github.com/decentralizacja/www.git
+      
+
+
