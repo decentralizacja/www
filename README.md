@@ -40,7 +40,8 @@ Do dyspozycji będą takie jak:
 + polyglot.pl
 
 
-## Pytanie otwarte: Jak udostępnić te rozwiązania jeszcze w tym roku (2022) dla Polaków?
+## Pytanie otwarte: 
+Jak udostępnić te rozwiązania efekywnie?
 
 #tokenized #time #work #earnings
 
